@@ -4,9 +4,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SafetyCulture.Functions", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SafetyCulture.Functions.Tests", "SafetyCulture.Functions.Tests\SafetyCulture.Functions.Tests.csproj", "{E5798857-2ECE-4313-8C50-37BC4743FD13}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "etc", "etc", "{25C3FB12-EA10-4ED3-AA8D-0E770BF70C84}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".etc", ".etc", "{25C3FB12-EA10-4ED3-AA8D-0E770BF70C84}"
 	ProjectSection(SolutionItems) = preProject
-		etc\Powershell\SafetyCulture.Test.ps1 = etc\Powershell\SafetyCulture.Test.ps1
+		.etc\Powershell\SafetyCulture.Test.ps1 = .etc\Powershell\SafetyCulture.Test.ps1
+		.etc\Powershell\_variables.ps1 = .etc\Powershell\_variables.ps1
 	EndProjectSection
 EndProject
 Global
