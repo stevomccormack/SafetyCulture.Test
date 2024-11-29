@@ -1,0 +1,14 @@
+E:\Steve McCormack\Workspaces\GitHub\SafetyCulture\SafetyCulture.Test\SafetyCulture.Functions\bin\Debug\net9.0\SafetyCulture.Functions.deps.json
+E:\Steve McCormack\Workspaces\GitHub\SafetyCulture\SafetyCulture.Test\SafetyCulture.Functions\bin\Debug\net9.0\SafetyCulture.Functions.runtimeconfig.json
+E:\Steve McCormack\Workspaces\GitHub\SafetyCulture\SafetyCulture.Test\SafetyCulture.Functions\bin\Debug\net9.0\SafetyCulture.Functions.dll
+E:\Steve McCormack\Workspaces\GitHub\SafetyCulture\SafetyCulture.Test\SafetyCulture.Functions\bin\Debug\net9.0\SafetyCulture.Functions.pdb
+E:\Steve McCormack\Workspaces\GitHub\SafetyCulture\SafetyCulture.Test\SafetyCulture.Functions\obj\Debug\net9.0\SafetyCulture.Functions.csproj.AssemblyReference.cache
+E:\Steve McCormack\Workspaces\GitHub\SafetyCulture\SafetyCulture.Test\SafetyCulture.Functions\obj\Debug\net9.0\SafetyCulture.Functions.GeneratedMSBuildEditorConfig.editorconfig
+E:\Steve McCormack\Workspaces\GitHub\SafetyCulture\SafetyCulture.Test\SafetyCulture.Functions\obj\Debug\net9.0\SafetyCulture.Functions.AssemblyInfoInputs.cache
+E:\Steve McCormack\Workspaces\GitHub\SafetyCulture\SafetyCulture.Test\SafetyCulture.Functions\obj\Debug\net9.0\SafetyCulture.Functions.AssemblyInfo.cs
+E:\Steve McCormack\Workspaces\GitHub\SafetyCulture\SafetyCulture.Test\SafetyCulture.Functions\obj\Debug\net9.0\SafetyCulture.Functions.csproj.CoreCompileInputs.cache
+E:\Steve McCormack\Workspaces\GitHub\SafetyCulture\SafetyCulture.Test\SafetyCulture.Functions\obj\Debug\net9.0\SafetyCulture.Functions.dll
+E:\Steve McCormack\Workspaces\GitHub\SafetyCulture\SafetyCulture.Test\SafetyCulture.Functions\obj\Debug\net9.0\refint\SafetyCulture.Functions.dll
+E:\Steve McCormack\Workspaces\GitHub\SafetyCulture\SafetyCulture.Test\SafetyCulture.Functions\obj\Debug\net9.0\SafetyCulture.Functions.pdb
+E:\Steve McCormack\Workspaces\GitHub\SafetyCulture\SafetyCulture.Test\SafetyCulture.Functions\obj\Debug\net9.0\SafetyCulture.Functions.genruntimeconfig.cache
+E:\Steve McCormack\Workspaces\GitHub\SafetyCulture\SafetyCulture.Test\SafetyCulture.Functions\obj\Debug\net9.0\ref\SafetyCulture.Functions.dll

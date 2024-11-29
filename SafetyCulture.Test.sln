@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SafetyCulture.Functions", "SafetyCulture.Functions\SafetyCulture.Functions.csproj", "{11A0B01D-62A1-4064-B044-BAE6F4BA4A07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SafetyCulture.Functions.Tests", "SafetyCulture.Functions.Tests\SafetyCulture.Functions.Tests.csproj", "{E5798857-2ECE-4313-8C50-37BC4743FD13}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "etc", "etc", "{25C3FB12-EA10-4ED3-AA8D-0E770BF70C84}"
+	ProjectSection(SolutionItems) = preProject
+		etc\Powershell\SafetyCulture.Test.ps1 = etc\Powershell\SafetyCulture.Test.ps1
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11A0B01D-62A1-4064-B044-BAE6F4BA4A07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11A0B01D-62A1-4064-B044-BAE6F4BA4A07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11A0B01D-62A1-4064-B044-BAE6F4BA4A07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11A0B01D-62A1-4064-B044-BAE6F4BA4A07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5798857-2ECE-4313-8C50-37BC4743FD13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5798857-2ECE-4313-8C50-37BC4743FD13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5798857-2ECE-4313-8C50-37BC4743FD13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5798857-2ECE-4313-8C50-37BC4743FD13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
