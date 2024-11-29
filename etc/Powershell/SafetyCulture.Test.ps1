@@ -94,7 +94,33 @@ Push-Location $SafetyCulture.RootPath
     git commit -m "Completed test files"
     git push -u $Git.Origin $Git.BranchMain
 
+
 Pop-Location
+
+
+
+#-----------------------------------------------------------------------------------------------------------------------
+# Mistake Handling
+#-----------------------------------------------------------------------------------------------------------------------
+Push-Location $SafetyCulture.RootPath
+
+    # if just created .gitignore - add it.
+    git add .gitignore
+    git commit -m ".gitignore"
+    git push $Git.Origin $Git.BranchMain
+
+    # Remove a specific file from the repository (mistakes!)
+    # git rm --cached <file-path>
+    
+    # Remove all files as per .gitignore    
+    git rm -r --cached .    
+    git add .
+    git commit -m "Remove accidentally pushed files"
+    git push $Git.Origin $Git.BranchMain
+
+
+Pop-Location
+
 
 
 # -----------------------------------------------------------------------------------------------------------------------   
